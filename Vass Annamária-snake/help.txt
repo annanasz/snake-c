@@ -1,0 +1,18 @@
+	Singleplayer mode:
+First, you have to pick the color of your snake and the mode you wanna play in, 
+then the game begins. In the wall mode you can't leave the screen, you die if you 
+collide with the wall, in free mode, you can exit the screen and enter on the other side.
+You can change the direction of the snake with the arrows of the keyboard.
+The goal is to eat as many apples as you can and reach the highest score.
+You can start over tha game by clicking on the "new game" button.
+If you wanna pause the game, press the "pause" button, or you can exit the game
+by pressing the exit button.
+If the snake collides with itself, you die.       
+	Multiplayer mode:
+Player 1 can change the direction of the snake with the W,A,S,D keyboard buttons,
+Player 2 with the arrows of the keyboard.
+The goal is to accumulate more points than the other player and to not die
+by colliding with your game partner or with yourself.
+If you collide with yourself, you automatically lose.
+If the game terminates by the collision of the two snakes, the winner is who has more points.
+end
